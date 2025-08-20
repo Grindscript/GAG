@@ -1,7 +1,7 @@
 local LOADING_TEXT = "Loading Script..."
 local MIN_SHOW_TIME = 20 -- minimum seconds of loading screen
 local ENABLE_PRELOAD = true -- set to false
-local BAR_CYCLE_TIME = 20 -- seconds per fill of progress bar animation
+local BAR_CYCLE_TIME = 25 -- seconds per fill of progress bar animation
 --===============================--
 
 local Players = game:GetService("Players")
